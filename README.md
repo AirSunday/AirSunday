@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alexanser
+### Hi there 👋, I'm Alexander
 
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 Learning to be a great programmer
