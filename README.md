@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alexander
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a Student from the city of Perm
 - 💪 Learning to be a great programmer
 - 🎉 I like to play all kinds of games
 - 🥅 Learning new things
